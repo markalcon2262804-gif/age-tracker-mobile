@@ -1,0 +1,20 @@
+# React Native
+node_modules/
+bundle.js
+*.jks
+*.keystore
+*.apk
+*.aab
+*.xcodeproj/
+*.xcworkspace/
+ios/Pods/
+# Metro Bundler cache
+/.expo/
+.expo/
+# Build directories
+/build/
+# Logs
+logs/
+*.log
+# Environment variables
+.env
